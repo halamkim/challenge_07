@@ -14,5 +14,12 @@ import sqlalchemy
  - optimize data access with advanced SQL queries
  - analyze the ETF portfolio 
  
- ## Final Result 
- 
+ ## Final Result:
+ type below into terminal: 
+
+` 
+voila <relative-path-to-notebook>
+`
+
+It should direct you to a webpage showing full results. 
+[Download the video of the result](https://github.com/halamkim/challenge_07/blob/main/Voila.mov)
