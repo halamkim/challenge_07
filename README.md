@@ -11,8 +11,9 @@ import sqlalchemy
  
  ## What is included:
  - analyze a single asset in the ETF
- - optimize data access with advanced SQL queries
- - analyze the ETF portfolio 
+ -- by using the SQL SELECT statement and by plotting it
+ - optimize data access with advanced SQL queries -- by using SELECT statement along with ORDER BY and WHERE
+ - analyze the ETF portfolio -- by joining tables, finding cumulative returns and annualized returns, and plotting it
  
  ## Final Result:
  type below into terminal: 
